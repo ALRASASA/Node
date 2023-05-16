@@ -1,0 +1,11 @@
+const names1 = require('./utils')
+const sa1 = require('./names')
+const sa2=require('./alt')
+require('./sum')
+/* console.log(addVal)
+console.log(sa2.person)
+console.log(names1)
+names1('jasin')
+//sayhi('susan')
+//sayhi(reqd)
+//sayhi(secret) */
